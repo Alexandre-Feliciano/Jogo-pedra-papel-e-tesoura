@@ -35,7 +35,7 @@ Um jogo interativo de Pedra, Papel e Tesoura desenvolvido com uma interface mode
    ```
 2. Abra o arquivo `index.html` no navegador.
 
-3. Entre nesse [link](https://github.com/Alexandre-Feliciano) para acessar o prejeto na web.
+3. Entre nesse [link](https://alexandre-feliciano.github.io/Jogo-pedra-papel-e-tesoura/) para acessar o prejeto na web.
 
 ## 📌 Funcionalidades Futuras
 
